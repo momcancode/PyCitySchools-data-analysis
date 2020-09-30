@@ -76,7 +76,7 @@ The data is provided by Monash University Data Analytics Bootcamp.
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 ---
-### Copyright
+Contact:
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Email: thao.ph.ha@gmail.com
 
